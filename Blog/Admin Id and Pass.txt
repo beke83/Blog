@@ -1,0 +1,7 @@
+Yo can use any of the credentials to login into the admin
+
+ADMIN USERNAME: Beke83
+ADMIN PASSWORD: beke83
+
+ADMIN USERNAME: James
+ADMIN PASSWORD: james
